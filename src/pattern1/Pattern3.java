@@ -15,7 +15,7 @@ package pattern1;
     12345
 */
 
-public class pattern3 {
+public class Pattern3 {
     public static void main(String[] args) {
         printPattern2(4); // change the input and the output changes accordingly.
     }

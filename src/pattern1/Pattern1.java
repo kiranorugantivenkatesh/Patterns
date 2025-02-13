@@ -15,7 +15,7 @@ Instruction to solve any pattern problem
 3. what to print f(i, j, n)
 */
 
-public class pattern1 {
+public class Pattern1 {
     public static void main(String[] args) {
         printPattern(4);
     }
